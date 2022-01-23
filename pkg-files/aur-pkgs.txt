@@ -1,6 +1,7 @@
 autojump
 awesome-terminal-fonts
-brave-bin
+chromium
+discord
 dxvk-bin
 github-desktop-bin
 lightly-git
